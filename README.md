@@ -33,3 +33,9 @@ All generated plots are saved in the **visualizations/** folder.
 2. Open the project folder in VS Code
 3. Install required libraries:
 
+## ✅ Output
+- Console output showing data analysis results
+- Bar chart, scatter plot, and heatmap images saved in the visualizations/ folder
+
+## 👩‍💻 Author
+Komal Mali
